@@ -1,1 +1,1 @@
-Project on using Git
+Recently updated project on using git
